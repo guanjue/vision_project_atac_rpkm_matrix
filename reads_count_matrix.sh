@@ -1,0 +1,3 @@
+echo chrom start end id length B_100072_result3.bam	CFU-E_845_result3.bam	CFU-E_853_result3.bam	CFU-Mk_847_result3.bam	CFU-Mk_855_result3.bam	CMP_842_result3.bam	CMP_850_result3.bam	ER4_872_result3.bam	ER4_873_result3.bam	ery_846_result3.bam	ery_854_result3.bam	G1E_870_result3.bam	G1E_871_result3.bam	GMP_843_result3.bam	GMP_851_result3.bam	LSK_1196_result3.bam	LSK_987_result3.bam	megs_848_result3.bam	megs_856_result3.bam	MEP_844_result3.bam	MEP_852_result3.bam	Mono_1197_result3.bam	Mono_1198_result3.bam	neutrophil_1199_result3.bam	neutrophil_1200_result3.bam	NK_100077_result3.bam	T_CD4_100075_result3.bam	T_CD8_100078_result3.bam > reads_count_matrix_header.txt
+
+
